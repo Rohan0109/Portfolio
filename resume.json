@@ -1,0 +1,159 @@
+{
+  "basics": {
+    "name": "Rohan M",
+    "label": "AI & ML Student",
+    "image": "",
+    "email": "rohanmurali0109@gmail.com",
+    "phone": "+91 7092676244",
+    "url": "https://www.artstation.com/rohanbalaji",
+    "summary": "Versatile and talented professional with a passion for 3D modeling, mobile development, and machine learning. I bring a strong set of skills and a proven track record in creating visually stunning 3D models, developing innovative mobile applications, and contributing to cutting-edge machine learning projects. With a keen eye for detail, a deep understanding of software development, and a drive for continuous learning, I am equipped to thrive in dynamic and challenging environments. My ability to seamlessly transition between different disciplines makes me a valuable asset in multidisciplinary teams. I am eager to leverage my expertise and contribute to the success of projects that push the boundaries of technology and enhance user experiences.",
+    "location": {
+      "address": "Lakshmi Kripa D-82 7th Cross N.E.E ",
+      "postalCode": "620018",
+      "city": "Thiruchirapalli",
+      "countryCode": "IN",
+      "region": "Tamil Nadu"
+    },
+    "profiles": [{
+      "network": "Linkedin",
+    
+      "url": "https://www.linkedin.com/in/rohan-murali/"
+    },
+    {
+      "network": "Github",
+      
+      "url": "https://github.com/Rohan0109"
+    }
+  ]
+  },
+  "work": [{
+    "name": "Kaboodle Innovations",
+    "position": "3d Illustrator",
+    "url": "https://www.kaboodleinnovations.com/WD/index.html",
+    "startDate": "2021-06-01",
+    "endDate": "2021-08-01",
+    "summary": "The army character design includes seven levels, representing progressive advancements in armor, weaponry, and skills for both genders. The hibiscus flower's reproductive system was accurately modeled and animated, serving as an educational tool. The astronaut character design underwent six refinements, showcasing the evolution of spacesuits, equipment, and skills for an immersive journey."
+    
+  },{
+    "name": "Deep Vision",
+    "position": "Mobile Developer",
+    "startDate": "2022-06-01",
+    "endDate": "2022-07-01",
+    "summary": "I worked on developing an Android app that allows users to embed and view 3D models of glTF/glb or FBX file types. The app incorporates a swipe feature for easy navigation and intuitive user experience. Additionally, I contributed to developing a 3D model of a company with thousands of animations specifically designed for sign language purposes. The model enables users to access and interact with various sign language animations seamlessly."
+  },{
+    "name": "apiplatform.io",
+    "url": "https://apiplatform.io",
+    "position": "Mobile Developer",
+    "startDate": "2022-08-15",
+    "endDate": "2023-01-15",
+    "summary": "The virtual agent called HAIVA (Hyper Automation Intelligence Virtual Assistant), integrated into apiplatform.io, streamlines API management and creation for users. Instead of manually inputting information on the platform, users can interact with HAIVA from anywhere and at any time, enabling faster API creation and management. The conversation flows of HAIVA are controlled by the Dialogflow CX platform, which provides graphical representations of the entire conversation, facilitating visualization of complex conversational scenarios.With HAIVA, users can effortlessly create, edit, document, and promote APIs. It also facilitates third-party API registration and the creation of new database connections. The implementation of HAIVA has yielded successful outcomes for the company.To enhance accessibility, HAIVA was made available as an iOS and Android app, providing users with a convenient chatbot interface for API management and support."
+  }
+],
+ 
+  "education": [{
+    "institution": "Coimbatore Institute of Technology",
+    "url": "https://www.cit.edu.in",
+    "area": "Artificial Intelligence and Machine Learning",
+    "studyType": "MSc Integrated",
+    "startDate": "2019",
+    "endDate": "2024",
+    "score": "8.0",
+    "courses": [
+     
+    ]
+  },
+  {
+    "institution": "SRV metriculalation",
+    "studyType": "12th HSC",
+    "startDate": "2018",
+    "endDate": "2019",
+    "score": "80 %",
+    "courses": [
+     
+    ]
+  },{
+    "institution": "Sri akilandeswari vidhyalaya",
+    "studyType": "10th CBSE",
+    "startDate": "2016",
+    "endDate": "2017",
+    "score": "9.0 CGPA",
+    "courses": [
+     
+    ]
+  }
+],
+ 
+  "skills": [{
+    "name": "Python",
+    "level": "Expert",
+    "keywords": [
+      "NLP",
+      "Machine Learning",
+      "Data Visualization"
+    ]
+  },{
+    "name": "Web Development",
+    "level": "Competence",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },{
+    "name": "Blender 3d",
+    "level": "Expert",
+    "keywords": [
+      "UV unwrap/ Texturing",
+      "Procedural Shading",
+      "modeling "
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "fluent"
+  },{
+    "language": "Tamil",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Machine Learning",
+    "keywords": [
+      "NLP",
+      "Reinforcement Learning"
+    ]
+  },{
+    "name": "Mobile Development",
+    "keywords": [
+      "Glassmorphism UI",
+      "Better user experience "
+    ]
+  },{
+    "name": "3d modeling/Rendering",
+    "keywords": [
+      "NPR styles",
+      "photorealistic renders"
+    ]
+  },{
+    "name": "Business Intelligence",
+    "keywords": [
+      "Big Data",
+      "Data Visualization"
+    ]
+  }],
+ 
+  "projects": [{
+    "name": "Parkinson's Disease Detector",
+    "summary": "I developed a predictive model using Random Forest and K-Nearest Neighbors (KNN) classifiers to determine Parkinson's disease status. The project showcased my expertise in machine learning, data preprocessing, and algorithm selection. The model accurately predicted Parkinson's disease by leveraging relevant features and clinical data.",
+    "highlights": [
+    
+    ]
+
+  },{
+    "name": "Fraud Finder",
+    "summary": "A machine Learning Project to detect credit card fraud using the algorithm logistic regression ,random forest , gridsearch CV ,xgboost ,SMOTE . Objective is to predict the fraud and genuine transaction using the mentioned algorithms and predict the best model",
+    "highlights": [
+
+    ]
+
+  }]
+}
